@@ -1,31 +1,13 @@
-## Welcome to GitHub Pages
+## 美東之旅行程 7/11~7/27
 
-You can use the [editor on GitHub](https://github.com/102306071/AmericaTrip/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Day1 7/11
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
+|日期   	|機場   	|航廈|時間   	|航班   	|   
+|---	|---	|---	|---	|---	|
+|7/11   	|台北桃園(TPE)～ <br> 溫哥華(YVR)   	|Terminal 2 <br> Terminal M |15:55~11:45 (10hr50min) |Air Canada AC018 	|   	|
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
